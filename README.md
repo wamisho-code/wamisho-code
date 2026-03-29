@@ -40,13 +40,7 @@ Hi there! I'm wamisho , a passionate developer with a keen interest in app devel
 
 ---
 
-### GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wamisho-code&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-
-</div>
 
 ---
 
