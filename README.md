@@ -22,7 +22,7 @@ Hi there! I'm wamisho , a passionate developer with a keen interest in app devel
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,cs&theme=dark" alt="Languages"/>
 
 **Backend & Databases**
 
