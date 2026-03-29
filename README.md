@@ -6,6 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wamisho-siraj-b56b42340?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://@wamnewx) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wamishosiraj@gmail.com)
 
+![Building something](https://img.shields.io/badge/%F0%9F%94%B5%20Building%20something-3b82f6?style=flat-square)
+
 </div>
 
 ### About
@@ -42,15 +44,9 @@ Hi there! I'm wamisho , a passionate developer with a keen interest in app devel
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wamisho-code&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wamisho-code&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wamisho-code&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
 </div>
-
----
-
-### Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wamisho-code&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
