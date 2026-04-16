@@ -1,27 +1,17 @@
-# Wamisho Siraj
-**Backend & Systems Developer**
+<div align="center">
+  <img src="https://vercel.app•%20App%20•%20Desktop%20Developer&descSize=15&descAlignY=65" width="100%"/>
 
-Professional software developer specializing in robust backend architectures, cross-platform desktop applications, and Android development. Focused on writing clean, maintainable code for real-time systems.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wamisho-siraj-b56b42340) 
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wamishosiraj@gmail.com)
+</div>
 
-[LinkedIn](https://linkedin.com) • [Email](mailto:wamishosiraj@gmail.com) • [Portfolio](#)
+### 👋 About Me
+I'm **Wamisho**, a developer focused on building high-performance applications and scalable backends.
 
----
+- 🛠️ **Working with:** Java (Spring Boot, Android), C++, and C#
+- 🎯 **Interests:** Real-time systems, GUI development, and scalable architecture
 
-### 🛠 Core Stack
-- **Languages:** Java, C++, C#, SQL
-- **Frameworks:** Spring Boot, Android SDK
-- **Infrastructure:** Docker, Kubernetes
-- **Databases:** MySQL, PostgreSQL
-
----
-
-### 📂 Focus Areas
-- **Backend Architecture:** Building scalable APIs and microservices using Spring Boot.
-- **Desktop & Systems:** Performance-oriented GUI development with C++ and C#.
-- **Mobile Development:** Native Android application development.
+### 🛠️ Tech Stack
+<img src="https://skillicons.dev" />
 
 ---
-
-### ⚙️ GitHub Status
-![Wamisho's Stats](https://vercel.app)
-
